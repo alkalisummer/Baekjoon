@@ -56,6 +56,8 @@ javascript로 공부하는 알고리즘
     
 - _(참고: O(N!)는 2^N보다도 더 큼 — 순열 전수 등)_
 
+<img width="992" height="352" alt="image" src="https://github.com/user-attachments/assets/d4d6ee9d-dbe6-4856-89b8-7b25a10e0d82" />
+
 <br><br>
 
 ## 2. 기본입력
